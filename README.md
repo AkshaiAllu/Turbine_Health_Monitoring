@@ -77,7 +77,8 @@ XGBoost achieved the highest accuracy of **92.0%** among the tested models and w
 
 ### SHAP Interaction Analysis
 
-![Uploading SHAP interaction analysis.png…]()
+<img width="583" height="680" alt="SHAP interaction analysis" src="https://github.com/user-attachments/assets/ef231317-650f-4f5b-8960-395e33611bce" />
+
 
 
 ## Repository Structure
